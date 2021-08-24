@@ -1,14 +1,14 @@
 # Giphy Searcher
 
 A new Flutter project.
-This repository contains only code folders of project
+This repository contains only code folders of project.
 Folders like /android /build and other wasn't uploaded
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-Make a new FLutter project and clone this repository to add app functionalities
+Make a new Flutter project and clone this repository to add app functionalities
 
 A few resources to get you started if this is your first Flutter project:
 
